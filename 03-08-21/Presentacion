@@ -5,8 +5,8 @@ Aplicaciones web: Interaccion con usurios.
 Paginas web: Es algo informativo.
 
 M = MONGDB BASE DE DATOS
-E = EXPRESS SERVIDOR
+E = EXPRESS SERVIDOR DE PAGINAS web
 A = ANGULAR LO MISMO JAVASCRIPT 
-N = NODEJS SERVIDOR COMO TAL
+N = NODEJS SERVIDOR COMO TAL = PHP
 
 HTML, CSS, JS.
