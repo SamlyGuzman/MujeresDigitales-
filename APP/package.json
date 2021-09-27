@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamlyGuzman/MujeresDigitales-.git#Api"
+  },
+  "author": "Samly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamlyGuzman/MujeresDigitales-/issues"
+  },
+  "homepage": "https://github.com/SamlyGuzman/MujeresDigitales-/tree/Api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
